@@ -11,7 +11,7 @@ I love creating interactive experiences that combine creativity, technology, and
 
 ### 🚀 Currently working on
 - University projects at UADE  
-- Small prototypes to improve my programming & design skills  
+- Various indie games in development  
 - Exploring new tools and workflows in Unity  
 
 ### 🌱 Learning right now
@@ -46,7 +46,7 @@ Me encanta crear experiencias interactivas que combinan creatividad, tecnología
 
 ### 🚀 En lo que estoy trabajando
 - Proyectos universitarios de UADE  
-- Pequeños prototipos para mejorar mis habilidades de programación y diseño  
+- Diversos juegos indie actualmente en desarrollo  
 - Explorando nuevas herramientas y flujos de trabajo en Unity  
 
 ### 🌱 Aprendiendo actualmente
