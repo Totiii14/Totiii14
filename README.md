@@ -5,8 +5,8 @@ I love creating interactive experiences that combine creativity, technology, and
 
 ### 🎮 What I do
 - 🧠 Gameplay programming  
-- 🎨 UI & game feel experimentation  
-- 🛠️ Prototyping mechanics and systems  
+- 🎨 Game feel experimentation  
+- 🛠️ Mechanics & systems implementation  
 - 🤝 Collaborative indie projects  
 
 ### 🚀 Currently working on
@@ -40,8 +40,8 @@ Me encanta crear experiencias interactivas que combinan creatividad, tecnología
 
 ### 🎮 Lo que hago
 - 🧠 Programación de gameplay  
-- 🎨 Experimentación con UI y game feel  
-- 🛠️ Prototipado de mecánicas y sistemas  
+- 🎨 Experimentación con game feel  
+- 🛠️ Implementación de mecánicas y sistemas  
 - 🤝 Proyectos indie colaborativos  
 
 ### 🚀 En lo que estoy trabajando
