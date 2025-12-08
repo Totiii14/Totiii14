@@ -59,7 +59,7 @@ Me encanta crear experiencias interactivas que combinan creatividad, tecnología
 - 💼 **LinkedIn:** *tu-link*  
 - 📸 **Instagram:** *tu-link si querés*
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_A_TU_PERFIL)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/bautista-virgallito/))
 [![Itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](LINK_A_TU_PERFIL)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](LINK_A_TU_PERFIL)
 
