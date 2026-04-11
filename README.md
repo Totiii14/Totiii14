@@ -23,8 +23,6 @@ I love creating interactive experiences that combine creativity, technology, and
 ### 📫 Find me on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bautista-virgallito/)
 [![Itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://totiiv.itch.io)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/totii.v/)
-
 
 ---
 
@@ -58,9 +56,6 @@ Me encanta crear experiencias interactivas que combinan creatividad, tecnología
 ### 📫 Podés encontrarme en
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bautista-virgallito/)
 [![Itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://totiiv.itch.io)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/totii.v/)
-
-
 
 ---
 
