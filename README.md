@@ -20,19 +20,27 @@ I love creating interactive experiences that combine creativity, technology, and
 - Game architecture & clean code  
 - Technical design fundamentals
 
+### 💬 Languages:
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,html,css&perline=9" />
+  </a>
+
 ### ⚒️ Softwares and Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23121011.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### 📫 Find me on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bautista-virgallito/)
 [![Itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://totiiv.itch.io)
 
 ### ⚙️ GitHub Analytics
+<p align="center">
 <a href="https://github.com/Totiii14">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Totiii14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Totiii14&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
 
 ---
 
